@@ -1,0 +1,4 @@
+pyspark==3.4.1
+fastapi==0.101.1
+warcio==1.7.4
+delta-spark==2.4.0
